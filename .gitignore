@@ -1,0 +1,18 @@
+# Node
+node_modules/
+npm-debug.log
+dist/
+.angular/
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
